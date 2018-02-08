@@ -1,0 +1,21 @@
+{
+    "name": "vecernik/test",
+    "require": {
+        "setasign/fpdi": "^2.0",
+        "setasign/fpdi-fpdf": "^2.0",
+        "setasign/fpdi-protection": "^2.0",
+		"setasign/eval/setapdf-stamper/ioncube/php5.6": "2.27.0.1196"
+    },
+	"repositories": [
+        {
+            "type": "composer",
+            "url": "https://www.setasign.com/downloads/"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Pavel Cernik",
+            "email": "pavel@cernik.name"
+        }
+    ]
+}
